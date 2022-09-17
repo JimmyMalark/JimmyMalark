@@ -9,4 +9,4 @@ I’m a relatively new self-taught full-stack developer.
 
 ###  Connect with me:
 
-[Portfolio](https://jimmy-malark.pages.dev)
+[Portfolio](https://jimmy-malark.vercel.app)
