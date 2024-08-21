@@ -6,7 +6,3 @@ Experienced web developer and designer and CTO. I specialize in designing and de
 - Currently working on my startup and learning a lot of data science and machine learning.
 
 ---
-
-###  Connect with me:
-
-[Portfolio](https://jimmy-malark.vercel.app)
