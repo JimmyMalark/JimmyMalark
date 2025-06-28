@@ -68,6 +68,8 @@ I’d describe myself as *pedantic in the best possible way*: I’m rigorous abo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jimmymalark&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmymalark&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmymalark&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
