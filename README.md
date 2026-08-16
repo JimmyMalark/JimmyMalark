@@ -1,84 +1,372 @@
-# 👨‍💻 James Malarkey  
-### Full-Stack Engineer • CTO • Pedantic System Designer
+# James Malarkey
 
-![Status](https://img.shields.io/badge/CTO-active-blue) ![Code Style](https://img.shields.io/badge/clean--code-pedantic-critical) ![Stack](https://img.shields.io/badge/stack-Django|Next.js|Go|Python|TypeScript-0a0a0a?logo=github)  
-![Focus](https://img.shields.io/badge/focus-AI|Systems|Architecture|DevOps-orange) ![Open to collaboration](https://img.shields.io/badge/open--to--collab-yes-success)
+### Technical CTO & Software Engineer
+**Backend Engineering • Architecture • Infrastructure • Go • Python/Django • Media Systems**
 
----
+I’m a hands-on technical leader and software engineer focused on building and operating reliable backend systems.
 
-## 👋 Who I Am
+My background spans frontend development, full-stack engineering, backend architecture, infrastructure, CI/CD, and technical leadership. I have worked both as an individual contributor and as a CTO, and I prefer roles where I can stay close to the engineering work while owning technical direction.
 
-I'm **James Malarkey** — a full-stack engineer with a product-focused mindset and a deep obsession with precision, system correctness, and well-architected software.  
-I’m currently the **CTO** of a fast-growing platform where I lead technical strategy, architect infrastructure, and write production-grade code across the stack.
-
-I’d describe myself as *pedantic in the best possible way*: I’m rigorous about code quality, test coverage, edge cases, error handling, naming conventions — even commit history. Every line of code should justify its existence.
+I’m particularly interested in **backend systems, Go, architecture, infrastructure, reliability, DevOps, and technically demanding products**.
 
 ---
 
-## 💼 What I Do
+## 👨‍💻 About Me
 
-- Architect and maintain scalable backend systems using **Python**, **Django**, and **Go**
-- Build high-performance frontend interfaces with **React**, **Next.js**, **TypeScript**, and **TailwindCSS**
-- Automate infrastructure and deployments using **CI/CD**, **Docker**, **GitHub Actions**, and **Bash**
-- Develop internal tools, video processing pipelines, AI integrations, and monitoring systems
-- Plan product and engineering sprints with GitHub Projects and Kanban workflows
-- Mentor devs, review PRs (extensively), and document everything like it’s a standard
+I started my career in frontend development and gradually moved toward backend engineering after realizing I wanted to understand and own more of the systems behind the products I was building.
 
----
+Today, my work is primarily focused on:
 
-## 📚 My Ongoing Focus Areas
+- Designing backend and system architectures
+- Building production services with **Go** and **Python/Django**
+- Designing APIs and data models
+- Building infrastructure and deployment systems
+- Designing CI/CD pipelines
+- Working with databases and distributed/background processing
+- Building video and media-processing systems
+- Making technical decisions and evaluating engineering trade-offs
+- Leading engineering teams while remaining hands-on
 
-| 🧠 Learning/Research | ⚙️ Tooling/Systems |
-|----------------------|------------------|
-| AI model inference & fine-tuning | Celery, Redis, RabbitMQ |
-| Distributed system design | Nginx, FFmpeg, Docker |
-| Machine learning pipelines | PostgreSQL, Elasticsearch |
-| Backend performance and profiling | GitHub Actions, CI/CD pipelines |
-| Multi-tenant architectures | Vite, Zustand, SWR |
+I enjoy taking ownership of difficult technical problems and learning whatever is necessary to solve them properly.
 
 ---
 
-## 🧠 Philosophy
+## ⚙️ What I Work On
 
-> *"If you’re going to do it, do it right — or not at all."*  
-> I believe in designing for scale from day one, minimizing future rewrites, and documenting decisions — not just code. I take systems thinking seriously, and I’m not afraid to challenge weak assumptions.  
->  
-> Good software is *boring*, *predictable*, *debuggable*, and *well-tested*.
+### Backend & Systems
+
+- Go
+- Python / Django
+- REST APIs
+- gRPC
+- SQL
+- OpenAPI
+- Background processing
+- Concurrent systems
+- Distributed systems
+- Modular monoliths
+- Microservices
+- Package / plugin architectures
+
+### Frontend
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Vue.js / Nuxt.js
+- Tailwind CSS
+- State management
+- React Hook Form
+- SSR / SSG when appropriate
+
+I started with JavaScript and moved to TypeScript early in my career. I primarily use React today.
+
+### Databases & Storage
+
+- PostgreSQL
+- Redis
+- Valkey
+- SQLite
+- MongoDB
+- Database schema design
+- Indexing
+- Query optimization
+- Transactions
+- Migrations
+- Connection pooling
+- Backup & recovery
+- Caching
+
+### Infrastructure & DevOps
+
+- Linux
+- Docker
+- Docker Compose
+- Nginx
+- Load balancers
+- Reverse proxies
+- VPS infrastructure
+- Object storage
+- NFS
+- CDN
+- SSL/TLS
+- Monitoring
+- Logging
+- Backups
+- Database deployment
+
+### CI/CD
+
+I have personally designed and maintained CI/CD pipelines using:
+
+- GitLab CI/CD
+- GitHub Actions
+- Automated testing
+- Vulnerability checks
+- Docker image builds
+- Staging deployments
+- Production deployments
+- Database migrations
+- Health checks
+- Manual production approval
+- Rollback workflows
+- Environment separation
+
+I care about making deployments **repeatable, observable, and recoverable** rather than relying on manual server operations.
+
+### Media & Video
+
+One of my strongest areas is video and media infrastructure.
+
+I have worked with:
+
+- FFmpeg
+- Video transcoding
+- Multiple resolutions
+- HLS
+- DASH
+- Multi-audio processing
+- Subtitle processing
+- AI-generated subtitles
+- Video metadata
+- Thumbnail generation
+- Timeline thumbnails
+- Large-file uploads
+- Chunked uploads
+- Resumable uploads
+- Upload recovery
+- Object storage
+- NFS
+- CDN delivery
+- Video streaming
+
+### AI / ML
+
+My AI experience is primarily focused on integrating models into production systems rather than purely researching machine learning.
+
+I've worked with:
+
+- Whisper
+- Model fine-tuning
+- Speech-to-text
+- Multilingual subtitle generation
+- LLM-based translation pipelines
+- Background AI processing
+- Self-hosted AI services
+- gRPC communication between AI services
 
 ---
 
-## 🚀 My Tools of Choice
+# 🏗️ Architecture
 
-![Python](https://img.shields.io/badge/-Python-0a0a0a?logo=python)  
-![Django](https://img.shields.io/badge/-Django-092e20?logo=django)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript)  
-![React](https://img.shields.io/badge/-React-20232a?logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash)
+I've worked with different architectural approaches depending on the problem:
+
+```text
+Monolith
+   │
+   ├── Modular Monolith
+   │
+   ├── Package / Plugin Architecture
+   │
+   ├── Microservices
+   │
+   └── gRPC Services
+````
+
+I don't believe architecture should be selected because a particular pattern is fashionable.
+
+A simple monolith can be the right solution.
+
+A modular monolith can be the right solution.
+
+A service-oriented architecture can be the right solution.
+
+The important part is understanding the trade-offs and choosing an architecture that the team can actually operate and evolve.
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimmymalark&show_icons=true&theme=github_dark&count_private=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmymalark&layout=compact&hide_border=true&theme=github_dark" height="150"/>
+### Stay close to the code
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jimmymalark&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph"/>
+I don't want technical leadership to separate me completely from implementation.
+
+I enjoy designing systems, but I also want to understand how those systems actually behave in production.
+
+### Solve the actual problem
+
+I try to avoid introducing complexity without a reason.
+
+At the same time, I have learned an important lesson from my own mistakes: **over-engineering can be just as damaging as under-engineering.**
+
+I now pay much more attention to scope, delivery speed, and what the system actually needs today.
+
+### Automate repetitive work
+
+If developers repeatedly perform the same manual operation, there is probably an opportunity to automate it.
+
+I've built automation around:
+
+* Deployments
+* Testing
+* Media processing
+* Background jobs
+* Developer workflows
+* Database operations
+* AI processing
+* Project scaffolding
+
+### Reliability matters
+
+I prefer systems that are:
+
+* Predictable
+* Observable
+* Recoverable
+* Testable
+* Easy to deploy
+* Easy to debug
+
+A system doesn't become reliable because it has a complicated architecture.
+
+It becomes reliable because its failure modes are understood and handled.
+
+---
+
+# 👔 Technical Leadership
+
+I've worked as a CTO and technical lead while remaining substantially hands-on.
+
+My leadership responsibilities have included:
+
+* Hiring engineers
+* Managing engineering teams
+* Managing Heads of Engineering
+* Architecture ownership
+* Technical strategy
+* Code review
+* Pull request review
+* Engineering standards
+* Development planning
+* Technical estimation
+* Feasibility analysis
+* Technology selection
+* Build-vs-buy decisions
+* Infrastructure ownership
+* CI/CD architecture
+* Translating business requirements into engineering decisions
+* Communicating technical trade-offs to company leadership
+
+I have also established engineering standards around:
+
+* Code review
+* Branch strategy
+* Commit conventions
+* Testing
+* API standards
+* Documentation
+* Linting
+* Type checking
+* Formatting
+* CI requirements
+* Definition of Done
+
+I prefer technical leadership that remains connected to implementation.
+
+---
+
+# 🧰 Languages & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+# 📊 Engineering Experience
 
-- 💬 I’m open to meaningful collaborations, smart side-projects, and anything challenging.
-- 🧪 Always happy to nerd out over architecture, dev workflows, code quality, and technical decision-making.
+Some areas I've worked on in production include:
 
-> *“Pedantry builds stability.”*
+* Backend systems serving large user populations
+* High-volume educational content platforms
+* Large video libraries
+* Hundreds of concurrent video viewers
+* Multi-terabyte storage systems
+* Large-file upload infrastructure
+* Asynchronous processing pipelines
+* AI-assisted media processing
+* PostgreSQL optimization
+* Authentication and authorization systems
+* Production CI/CD
+* Containerized deployments
+* CDN-based media delivery
+* Infrastructure and server management
+
+I've also worked on smaller systems where the goal was simply to eliminate repetitive work, reduce errors, or provide developers with better tooling.
+
+I enjoy both ends of the spectrum.
 
 ---
+
+# 🛠️ Things I Like Building
+
+I'm especially interested in:
+
+* Backend services
+* Go services
+* Platform infrastructure
+* Developer tooling
+* CI/CD systems
+* Distributed processing
+* Media processing
+* Video infrastructure
+* API platforms
+* Internal engineering tools
+* Reusable software architecture
+
+---
+
+# 📚 Currently Focused On
+
+My current technical direction is increasingly centered around:
+
+**Go → Backend Systems → Infrastructure → Reliability → Architecture → Technical Strategy**
+
+I'm continuing to deepen my Go experience while keeping Python/Django as a second part of my backend toolkit.
+
+For AI-heavy systems, I still prefer Python where its ecosystem provides a clear advantage.
+
+---
+
+# 🎯 What I'm Looking For
+
+I want to work on a **large product with a serious engineering team**.
+
+The environment I'm looking for is one where I can:
+
+* Own backend architecture
+* Work on infrastructure
+* Make meaningful technical decisions
+* Improve reliability and deployment
+* Solve difficult engineering problems
+* Stay hands-on with code
+* Learn from strong engineers
+* Help other engineers grow
+
+I'm particularly interested in products where backend, platform, infrastructure, or media-processing problems are important to the product.
